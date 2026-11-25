@@ -6,4 +6,6 @@ Serve the `docs/` directory with any static web server. GitHub Pages can deploy 
 
 Controls and instructions appear before each game. Personal best scores are stored in your browser.
 
+made with codex 
+
 Built with Three.js (MIT license).
